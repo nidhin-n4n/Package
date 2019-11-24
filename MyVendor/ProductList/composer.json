@@ -1,0 +1,16 @@
+{
+    "name": "asus/product-list",
+    "description": "package to list the products",
+    "authors": [
+        {
+            "name": "nidhin",
+            "email": "nidhin@excelledia.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "MyVendor\\ProductList\\": "src/"
+            }
+        }
+}
